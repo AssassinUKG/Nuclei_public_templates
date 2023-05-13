@@ -84,7 +84,6 @@ requests:
           - "Error 1006"
           - "Cloudflare"
           - "403 Forbidden"
-          - "Rate limit exceeded."
         condition: or
         part: body
         negative: true
