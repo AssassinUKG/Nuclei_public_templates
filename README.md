@@ -1,4 +1,4 @@
 # Nuclei_public_templates
 
-# To investigate.
+# (sqli) To investigate.
 > too many requests causes false positives
