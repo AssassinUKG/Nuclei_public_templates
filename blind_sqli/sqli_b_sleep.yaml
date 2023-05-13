@@ -73,13 +73,6 @@ requests:
 
       - type: word
         words:
-          - "Too Many Requests"
-        condition: or
-        part: title
-        negative: true
-
-      - type: word
-        words:
           - "Access Denied"
           - "Error 1006"
           - "Cloudflare"
